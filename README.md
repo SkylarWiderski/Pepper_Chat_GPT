@@ -18,4 +18,7 @@ Once the whisper model has downloaded, wait for the "listening..." message then 
 
 Note that if you use a free API key, you will be limited to three questions per minute.
 
+# Examples
+You can see the included example video here
+https://github.com/SkylarWiderski/Pepper_Chat_GPT/blob/main/examples/VID_20230707_164528.mp4
 
