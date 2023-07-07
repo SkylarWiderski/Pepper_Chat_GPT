@@ -10,6 +10,7 @@ Edit gpt.py to add the IP address, username and password of your Pepper robot.
 
 # Usage
 Run the included choregraphe project on your pepper robot.
+You may wish to turn off "Autonomous Life" in Choregraphe first, and then wake pepper up using the "sun" button.
 
 Next execute the gpt.py script in the terminal.
 
